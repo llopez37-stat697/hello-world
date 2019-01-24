@@ -1,3 +1,3 @@
 # hello-world
 starting practice
-My name is Lorenz Lopez and I am on my 2nd year of the masters program. Looking forward to learning all with you how to use these new tools and SAS. 
+My name is Lorenz Lopez and I am on my last semester of the masters program. Looking forward to learning more about SAS especially macros and Proc SQL.  
